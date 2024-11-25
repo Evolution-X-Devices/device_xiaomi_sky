@@ -17,6 +17,7 @@ AB_OTA_PARTITIONS += \
     boot \
     dtbo \
     odm \
+    recovery \
     product \
     system \
     system_ext \
